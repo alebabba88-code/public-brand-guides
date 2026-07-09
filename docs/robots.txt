@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alebabba88-code.github.io/public-brand-guides/sitemap.xml
